@@ -1,1 +1,15 @@
-*.js
+*.jsanimation.js
+backgroud-map.js
+collision-map.js
+entity.js
+entity-pool.js
+font.js
+game.js
+image.js
+impact.js
+input.js
+loader.js
+map.js
+sound.js
+system..js
+timer.js
