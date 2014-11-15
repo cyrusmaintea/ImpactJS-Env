@@ -10,3 +10,4 @@ select-file-dropdown.js
 tile-select.js
 weltmeister.css
 weltmeister.js
+api/*
