@@ -1,1 +1,12 @@
-*.js
+config.js
+edit-entities.js
+edit-map.js
+entities.js
+evented-input.js
+jquery-1.7.1.min.js
+jquery-ui-1.8.1.custom.min.js
+modal-dialogs.js
+select-file-dropdown.js
+tile-select.js
+weltmeister.css
+weltmeister.js

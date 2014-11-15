@@ -1,1 +1,4 @@
-*.js
+browse.php
+config.php
+glob.php
+save.php
