@@ -1,4 +1,4 @@
-*.jsanimation.js
+animation.js
 backgroud-map.js
 collision-map.js
 entity.js
